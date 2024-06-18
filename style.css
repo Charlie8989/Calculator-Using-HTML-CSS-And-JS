@@ -1,0 +1,48 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: poppins;
+}
+.background {
+  height: 100vh;
+  width: 100vw;
+  background-color: #111;
+}
+.heading{
+ 
+  background-color: red;
+}
+.container {
+  width: 15em;
+  height: 26em;
+  background-color: white;
+}
+.display {
+  height: 8em;
+  width: 15em;
+  background-color: white;
+}
+.row-1 {
+  margin-top: 7px;
+}
+
+.row-5 {
+  margin-top: -10px;
+}
+#display {
+  border: none;
+  width: 7em;
+  font-size: 33px;
+  text-align: right;
+}
+.equal {
+  height: 40px;
+  width: 40px;
+  background-color: #f97137;
+  border-radius: 50%;
+  color: white;
+}
+button {
+  background-color: white;
+  border: none;
+}
